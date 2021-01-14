@@ -1,0 +1,17 @@
+.Bar{
+  width: 1000px;
+  height: 480px;
+  margin: 0 auto
+}
+
+@media(max-width:600px){
+  .Bar{
+    width: 550px;
+  }
+}
+
+@media(max-width:400px){
+  .Bar{
+    width: 370px;
+  }
+}

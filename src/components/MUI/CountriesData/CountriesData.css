@@ -1,0 +1,18 @@
+.Table{
+  /* min-width:  599; */
+  width: 1200px;
+  padding: 20px;
+  margin: 0 auto,
+}
+
+@media(max-width:600px){
+  .Table{
+    width: 550px;
+  }
+}
+
+@media(max-width:400px){
+  .Table{
+    width: 370px;
+  }
+}
