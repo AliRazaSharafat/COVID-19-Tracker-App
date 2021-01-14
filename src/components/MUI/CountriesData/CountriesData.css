@@ -1,8 +1,7 @@
 .Table{
-  /* min-width:  599; */
   width: 1200px;
   padding: 20px;
-  margin: 0 auto,
+  margin: 0 auto;
 }
 
 @media(max-width:600px){

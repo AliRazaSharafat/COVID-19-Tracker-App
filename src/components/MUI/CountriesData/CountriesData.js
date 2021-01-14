@@ -14,9 +14,6 @@ import './CountriesData.css';
 
 const useStyles = makeStyles({
 
-  table: {
-
-  },
   head: {
     fontWeight: 'bold'
   }

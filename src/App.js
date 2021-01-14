@@ -26,7 +26,6 @@ function App() {
       <AppBar />
       <DisplayData />
       <BottomNavigation value={value} />
-      <span>Deployed</span>
     </div>
   );
 }
